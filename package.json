@@ -1,5 +1,5 @@
 {
-  "name": "brendan",
+  "name": "shop_phd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexanderlukens/Brendan.git"
+    "url": "git+https://github.com/alexanderlukens/shop_phd.git"
   },
   "author": "alex lukens",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexanderlukens/Brendan/issues"
+    "url": "https://github.com/alexanderlukens/shop_phd/issues"
   },
-  "homepage": "https://github.com/alexanderlukens/Brendan#readme",
+  "homepage": "https://github.com/alexanderlukens/shop_phd#readme",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^6.4.1",
